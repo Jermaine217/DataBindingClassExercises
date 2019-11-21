@@ -1,0 +1,7 @@
+D:\Projects\DataBindingExercises\exercise2\final\FlagData\bin\Debug\netstandard2.0\FlagData.deps.json
+D:\Projects\DataBindingExercises\exercise2\final\FlagData\bin\Debug\netstandard2.0\FlagData.dll
+D:\Projects\DataBindingExercises\exercise2\final\FlagData\bin\Debug\netstandard2.0\FlagData.pdb
+D:\Projects\DataBindingExercises\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfoInputs.cache
+D:\Projects\DataBindingExercises\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfo.cs
+D:\Projects\DataBindingExercises\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.dll
+D:\Projects\DataBindingExercises\exercise2\final\FlagData\obj\Debug\netstandard2.0\FlagData.pdb

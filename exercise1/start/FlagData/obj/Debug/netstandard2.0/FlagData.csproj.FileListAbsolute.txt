@@ -1,0 +1,15 @@
+D:\Projects\DataBindingExercises\src\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.deps.json
+D:\Projects\DataBindingExercises\src\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.dll
+D:\Projects\DataBindingExercises\src\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.pdb
+D:\Projects\DataBindingExercises\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.csprojAssemblyReference.cache
+D:\Projects\DataBindingExercises\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfoInputs.cache
+D:\Projects\DataBindingExercises\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfo.cs
+D:\Projects\DataBindingExercises\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.dll
+D:\Projects\DataBindingExercises\src\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.pdb
+D:\Projects\DataBindingExercises\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.deps.json
+D:\Projects\DataBindingExercises\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.dll
+D:\Projects\DataBindingExercises\exercise1\start\FlagData\bin\Debug\netstandard2.0\FlagData.pdb
+D:\Projects\DataBindingExercises\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfoInputs.cache
+D:\Projects\DataBindingExercises\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.AssemblyInfo.cs
+D:\Projects\DataBindingExercises\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.dll
+D:\Projects\DataBindingExercises\exercise1\start\FlagData\obj\Debug\netstandard2.0\FlagData.pdb
